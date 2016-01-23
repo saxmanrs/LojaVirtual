@@ -15,7 +15,7 @@ namespace Quiron.LojaVirtual.Dominio.Entidades
         public decimal Preco { get; set; }
         public string Categoria { get; set; }
 
-
+        public String teste { get; set; }
 
     }
 }
